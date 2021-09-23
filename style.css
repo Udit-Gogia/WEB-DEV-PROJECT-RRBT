@@ -1,0 +1,139 @@
+h1{
+    font-size: 50px;
+    color: white;
+    margin-left: 50px;
+    text-align: center;
+}
+h4{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.rrbt{
+    background-position: center;
+    width: DISPLAY;
+    height: 400px;
+    background-repeat: no-repeat;
+    
+}
+p{
+    font-family: 'Thasadith';
+    font-size: 21px;
+    color: white;
+    padding: 15px;
+    
+    
+    
+    margin: 0px;
+    
+  
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    padding: 4px;
+    
+   
+    text-align: left;
+    text-transform: none;
+    font-size:30px;
+    color:white;
+    padding :0px;
+    margin: 0px;
+}
+h8{
+    margin-left: 550px;
+    padding: 20px;
+    font-family: Roboto;
+    text-align: center; 
+    color:aliceblue;
+    
+}
+.naam{
+    padding: 0;
+}
+
+
+a:hover{
+    color: cornflowerblue;
+}
+aside{
+    color: white;
+}
+
+
+
+nav a{
+    color: white;
+    padding: 5px;
+    padding-top: 0px;
+    padding-right: 7px;
+    margin-right: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Montserrat'
+    
+
+}
+nav a:hover{
+    color: black !important;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    
+}
+
+video{
+    
+    background-color: black;
+    
+}
+body{
+    background-color:  #2A4264;
+    background-image:  url('fadedcustomized.jpg');
+    
+    background-repeat: no-repeat,no-repeat;
+    background-position: top,bottom;
+    background-attachment: scroll,fixed;
+    
+}
+
+.blackout{
+    background-color:black;
+     position:relative; 
+     
+     width: 100%; 
+     background-repeat: no-repeat;
+     
+     
+
+}
+
+.vl{
+    border-left:1px solid white;
+    height:500px;
+    opacity: 0.7;
+    /* margin-left:50%; */
+
+    position:absolute;
+    top:20%;
+    left:51%;
+}
+.grill{
+    background-color: black;
+    position:absolute;
+    left:55%;
+    top:13.7%;
+    padding-bottom: 1%;
+    
+    
+}
+.blackgb{
+    background-color: black;
+}
+
+
+
+
+
