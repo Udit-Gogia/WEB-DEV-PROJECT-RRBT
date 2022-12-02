@@ -92,7 +92,6 @@ video{
 body{
     background-color:  #2A4264;
     background-image:  url('fadedcustomized.jpg');
-    
     background-repeat: no-repeat,no-repeat;
     background-position: top,bottom;
     background-attachment: scroll,fixed;
