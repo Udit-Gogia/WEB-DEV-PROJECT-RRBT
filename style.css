@@ -133,7 +133,12 @@ body{
     background-color: black;
 }
 
-
+.copyright{
+    text-align: center;
+    bottom: 0px;
+    right: 33%;
+    position: absolute;
+}
 
 
 
